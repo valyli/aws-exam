@@ -15,7 +15,7 @@ I want those stuff are helpful for you.
 # My Score
 | Exam | Score | Preparing Days |
 |:-:|:-:|:-:|
-|SAA|801|20|
+|SAA|801|17|
 |SAP|781|18|
 |DOP|1000|11|
 
